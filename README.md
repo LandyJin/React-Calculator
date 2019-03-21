@@ -1,9 +1,5 @@
 # React Calculator
 
-## Check Website
-
-https://safe-river-85709.herokuapp.com/
-
 ## Quick start
 
 --------
